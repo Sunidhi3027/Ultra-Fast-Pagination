@@ -243,8 +243,5 @@ Keyset pagination:
 
 This project provides a practical comparison for learning and production implementation.
 
----
 
 
-
-Just tell me what you want next 💪
